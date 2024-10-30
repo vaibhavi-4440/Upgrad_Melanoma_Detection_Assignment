@@ -65,4 +65,4 @@ Efficient way to build CNN architecture from https://towardsdatascience.com/a-gu
 Image classification using CNN from https://www.analyticsvidhya.com/blog/2020/02/learn-image-classification-cnn-convolutional-neural-networks-3-datasets/
 
 ## Contact
-Created by [@vaibhavi4440] - feel free to contact me!
+Created by [@vaibhavi-4440] - feel free to contact me!
